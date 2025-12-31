@@ -12,7 +12,7 @@ This method has very big disadvantages:
 4. Even if ADB has sufficient permissions, the app requires root privileges to run
 
 Shizuku uses a completely different way. See detailed description below.
-
+ 
 ## User guide & Download
 
 <https://shizuku.rikka.app/>
